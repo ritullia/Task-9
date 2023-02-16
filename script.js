@@ -38,3 +38,4 @@ const newMovie = new Movie("Poker Face", " Russell Crowe", 107000000)
 // newMovie.print()
 
 newMovie.wasExpensive(100000000)
+
